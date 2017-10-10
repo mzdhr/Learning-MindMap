@@ -14,3 +14,7 @@ Mindnode: https://mindnode.com/
 
 ## image
 There is an image for this map, if you don't have the app.
+[Image Link](../master/LearningMindMapByMohammadL.png)
+
+###Preview
+![MindMapLearning](../master/Learning-MindMap/Learning.mindnode/QuickLook/Preview.jpg "Mind Map Learning")
